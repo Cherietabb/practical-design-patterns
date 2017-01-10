@@ -1,0 +1,17 @@
+{
+  "name": "practical_design_patterns",
+  "version": "1.0.0",
+  "description": "based on the Pluralsight course of the same name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoloader": "^2.1.0"
+  }
+}
